@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshsinha2002
 - 👀 I’m interested in Java Development, Android Development and SDE.
-- 🌱 I’m currently learning Android Development and Full Stack Java Development
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 🌱 I’m currently a Java Full Stack Developer and a Android Full Stack Developer
+- 💞️ I’m looking to collaborate on Open Source Projects as well as Contact Based Projects
 - 📫 How to reach me Email : harshsinha2002@gmail.com
 -     LinkedIn: https://www.linkedin.com/in/harsh-sinha-459bbb299/
 
